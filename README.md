@@ -1,7 +1,7 @@
-cloud_liveness_detection
+Identificação facil e detecção de vivacidade
 ==============================
 
-A short description of the project.
+Esse projeto tem como objetivo fazer o reconhecimento facil e faz parte do projeto integrado das disciplinas de COGNITIVE ENVIROMENTS, MLOPS E COMPUTER VISION do curso MBA Data Science & Artificial Intelligence da FIAP. 
 
 Project Organization
 ------------
