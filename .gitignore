@@ -58,7 +58,7 @@ target/
 
 # DotEnv configuration
 .env
-.venv
+.venv/ # virtualenv
 
 # Database
 *.db
