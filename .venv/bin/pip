@@ -1,4 +1,4 @@
-#!/Users/cintia.duarte/Documents/develop/cloud_liveness_detection/.venv/bin/python
+#!/Users/cintia.duarte/face_recognition_liveness_detection/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
