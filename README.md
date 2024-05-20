@@ -1,7 +1,7 @@
-Identificação facil e detecção de vivacidade
+Identificação facial e detecção de vivacidade
 ==============================
 
-Esse projeto tem como objetivo fazer o reconhecimento facil e faz parte do projeto integrado das disciplinas de COGNITIVE ENVIROMENTS, MLOPS E COMPUTER VISION do curso MBA Data Science & Artificial Intelligence da FIAP. 
+Esse projeto tem como objetivo fazer o reconhecimento facial e faz parte do projeto integrado das disciplinas de COGNITIVE ENVIROMENTS, MLOPS E COMPUTER VISION do curso MBA Data Science & Artificial Intelligence da FIAP. 
 
 Project Organization
 ------------
